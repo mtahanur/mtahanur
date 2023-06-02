@@ -2,7 +2,7 @@
 
 <p align="center">  Computer Engineer </p>
 
-- 🔭 I’m currently developing **HTML, CSS, JavaScript, React.JS** and **Redux** projects
+- 🔭 I’m currently developing **HTML, CSS, JavaScript, React.JS** projects
 
 - 🌱 I’m currently learning **Frontend techs**
                                                          
